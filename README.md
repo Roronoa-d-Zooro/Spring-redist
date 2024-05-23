@@ -1,2 +1,2 @@
-# Spring-redist
-demo-tutorial files of redist
+# Spring-redis
+demo-tutorial files of redis
